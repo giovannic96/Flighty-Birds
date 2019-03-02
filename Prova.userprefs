@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GUI\ScoreGUI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player\PlayerMovement.cs" Line="65" Column="110" />
+      <File FileName="Assets\Scripts\GUI\ScoreGUI.cs" Line="19" Column="46" />
+      <File FileName="Assets\Scripts\Plane\PlaneMovement.cs" Line="22" Column="3" />
+      <File FileName="Assets\Scripts\Camera\CameraMovement.cs" Line="15" Column="59" />
+      <File FileName="Assets\Scripts\Grass\SpawnEnvironment.cs" Line="10" Column="76" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
